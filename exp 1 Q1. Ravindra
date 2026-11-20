@@ -5,11 +5,11 @@ int main() {
 printf("========================================\n");
 printf("\t STUDENT PROFILE CARD\n");
 printf("========================================\n");
-printf("Name\t\t:\tShifa Rizvi\n");
-printf("Course\t\t:\tECS\n");
-printf("Roll No.\t:\t261S049\n");
+printf("Name\t\t:\travindra choudhary\n");
+printf("Course\t\t:\COMPS\n");
+printf("Roll No.\t:\t261P079\n");
 printf("Age\t\t:\t18\n");
-printf("DIV\t\t:\tB\n");
+printf("DIV\t\t:\tE\n");
 printf("========================================\n");
 
 return 0;
