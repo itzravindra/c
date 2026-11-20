@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+//all the details are given below 
+printf("========================================\n");
+printf("\t STUDENT PROFILE CARD\n");
+printf("========================================\n");
+printf("Name\t\t:\tShifa Rizvi\n");
+printf("Course\t\t:\tECS\n");
+printf("Roll No.\t:\t261S049\n");
+printf("Age\t\t:\t18\n");
+printf("DIV\t\t:\tB\n");
+printf("========================================\n");
+
+return 0;
